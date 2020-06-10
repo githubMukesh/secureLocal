@@ -1,0 +1,28 @@
+{
+  "name": "securelocal",
+  "version": "1.0.0",
+  "description": "This project is adding support of sessionStorage with localForage and secure the storage data by providing encryption layer on top of it.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubMukesh/secureLocal.git"
+  },
+  "keywords": [
+    "LOCALFORAGE",
+    "STORGAE",
+    "SECURITY",
+    "JAVASCRIPT"
+  ],
+  "author": "MUKESH RANJAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/githubMukesh/secureLocal/issues"
+  },
+  "homepage": "https://github.com/githubMukesh/secureLocal#readme",
+  "devDependencies": {
+    "husky": "^4.2.5"
+  }
+}
