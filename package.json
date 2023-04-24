@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/githubMukesh/secureLocal#readme",
   "devDependencies": {
-    "husky": "^4.2.5"
+    "husky": "^8.0.3"
   }
 }
